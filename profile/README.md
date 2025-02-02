@@ -2,7 +2,7 @@
 
 The easiest way to create and manage AI-powered social media personas that can authentically engage with followers.
 
-[![Discord](https://img.shields.io/discord/1332521682224680984?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/FsTXmwaG3g)
+[![Discord](https://img.shields.io/discord/1332521682224680984?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/oracleframework)
 
 [![Twitter](https://img.shields.io/twitter/follow/oracleframework?style=flat)](https://twitter.com/oracleframework)
 
@@ -28,7 +28,7 @@ Want to build your own AI agent? Check out:
 
 ## Connect
 
-- [Discord](https://discord.gg/FsTXmwaG3g)
+- [Discord](https://discord.gg/oracleframework)
 - [Twitter](https://twitter.com/oracleframework)
 
 ## Contributing
